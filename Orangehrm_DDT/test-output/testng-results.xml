@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10041" started-at="2022-05-13T12:56:46Z" finished-at="2022-05-13T12:56:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10041" started-at="2022-05-13T12:56:46Z" finished-at="2022-05-13T12:56:56Z">
+      <class name="Oarangehrm_testcases.Adminlog_invaliddata">
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:Oarangehrm_testcases.Adminlog_invaliddata@3e6fa38a]" name="launchApp" is-config="true" duration-ms="6179" started-at="2022-05-13T12:56:46Z" finished-at="2022-05-13T12:56:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="checkadminlogin()[pri:0, instance:Oarangehrm_testcases.Adminlog_invaliddata@3e6fa38a]" name="checkadminlogin" duration-ms="3700" started-at="2022-05-13T12:56:52Z" finished-at="2022-05-13T12:56:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkadminlogin -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:Oarangehrm_testcases.Adminlog_invaliddata@3e6fa38a]" name="closeApp" is-config="true" duration-ms="131" started-at="2022-05-13T12:56:56Z" finished-at="2022-05-13T12:56:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- Oarangehrm_testcases.Adminlog_invaliddata -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,15 @@
+<suite name="orangehrm DDT test suite">
+<test name="Admon login with valid data">
+<classes>
+<class name="Oarangehrm_testcases.Admonlog_validata">
+</class>
+</classes>
+</test>
+
+<test name="Admonlogin with invalid data">
+<classes>
+<class name="Oarangehrm_testcases.Adminlog_invaliddata">
+</class>
+</classes>
+</test>
+</suite>
